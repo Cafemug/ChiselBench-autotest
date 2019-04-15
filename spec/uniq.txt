@@ -1,0 +1,7 @@
+﻿//uniq [-cdu][-f,s,w N]
+-c file //행이 얼마나 중복되는지 계산하여 출력
+-d file //중복되는 행 한번만 출력
+-u file // 중복되지않은행만 출력
+-f int file //첫 n번째 필드 스킵 
+-s int file //첫 n번째 문자들 스킵
+-w int file //N char 비교

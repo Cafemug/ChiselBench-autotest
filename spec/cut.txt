@@ -1,0 +1,22 @@
+﻿//cut [옵션] [파일]
+-b file // 바이트단위로 나타낸다
+-b int file
+-b int- file 
+-b int-int file 
+-b int,int file
+-b -int file 
+-c file // 문자단위로 나타낸다
+-c int file
+-c int- file 
+-c int-int file 
+-c -int file 
+-c int,int file
+-f file // 필드단위로 나타낸다
+-f int file
+-f int- file 
+-f int-int file
+-f int,int file  
+-f -int file 
+-d string file // string으로 파싱 *단독사용불가
+-n //무시 *단독사용불가
+-s  // 필드 구분자에 포함되지 않는 행 출력x *단독사용불가

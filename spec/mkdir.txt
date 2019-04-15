@@ -1,0 +1,5 @@
+﻿//mkdir [option] dir
+-m 권한 dir // 새로만들 디렉터리의 권한설정
+-p dir_path // 상위경로도 함께 생성
+
+ls -al로 판단

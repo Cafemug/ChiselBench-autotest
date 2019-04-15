@@ -1,0 +1,4 @@
+﻿//tr [-cds] string string
+-d string1 string2 //string1에서 지정한문자를 다 삭제한후 출력
+-c string1 string2 // string1 아스키코드와 보수연산 //*무한루프돔
+-s string1 string2 // string2에서 무한루프도는거 삭제

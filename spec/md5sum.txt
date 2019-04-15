@@ -1,0 +1,4 @@
+﻿// md5sum [-csw] file
+-c file // 파일에서 md5sum을 읽고검사한다
+-s file // 부적절한 옵션뜸 
+-w file // 체크섬 검사*옵션제외

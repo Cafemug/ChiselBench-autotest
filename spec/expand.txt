@@ -1,0 +1,3 @@
+﻿//expand [-i] [-t N] file
+-i file //tab 안바꿈
+-t int file // 탭간격 조절

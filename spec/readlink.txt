@@ -1,0 +1,4 @@
+﻿//readlink [-fnv] file
+-f file // 심볼릭 링크 원본 위치를 출력한다
+-n file // 새로운 라인은 출력하지 않는다
+-v file // 상세한 정보 출력

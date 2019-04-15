@@ -1,0 +1,6 @@
+﻿//wc [-cmlwL] file
+-c file //바이트수만큼출력
+-m file //문자수만큼출력
+-l file //행수만큼출력
+-w file //단어수만큼출력
+-L file //가장 깅 행 출력

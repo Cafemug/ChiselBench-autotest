@@ -1,0 +1,10 @@
+﻿//rm [-irf] file
+-f file //강제로 파일이나 디렉터리 삭제하고 삭제할 대상이 없을경우 메시지를 출력하지않는다
+-f dir
+-i file // 삭제할때마다 사용자에게 물어본다
+-i dir
+-R file //재귀로 다삭제
+-R dir
+-r file
+-r dir
+ls -al로 체크
