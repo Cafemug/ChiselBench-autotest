@@ -1,0 +1,5 @@
+0 0 0 newdir-1 lsread 0
+
+0 0 0 newdir-2 lsread 0
+
+-p 0 0 newdir-1 lsread 0

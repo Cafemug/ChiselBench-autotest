@@ -1,0 +1,9 @@
+-c 0 file-1 0 out 0
+
+-m 0 file-1 0 out 0
+
+-l 0 file-1 0 out 0
+
+-w 0 file-1 0 out 0
+
+-L 0 file-1 0 out 0

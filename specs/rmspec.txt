@@ -1,0 +1,11 @@
+0 0 file-1 0 lsread 0
+
+0 0 file-2 0 lsread 0
+
+-r 0 dir-1 0 lsread 0
+
+-r 0 dir-2 0 lsread 0
+
+-f 0 file-1 0 lsread 0
+
+-f 0 file-2 0 lsread 0 

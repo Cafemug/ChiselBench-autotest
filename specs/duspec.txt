@@ -1,0 +1,23 @@
+-a 0 file-1 0 out 0
+
+-a 0 dir-1 0 out 0
+
+-L 0 dir-1 0 out 0
+
+-H 0 dir-1 0 out 0
+
+-c 0 dir-1 0 out 0
+
+-l 0 dir-1 0 out 0
+
+-l 0 file-1 0 out 0
+
+-s 0 dir-1 0 out 0
+
+-x 0 dir-1 0 out 0
+
+-h 0 dir-1 0 out 0
+
+-m 0 dir-1 0 out 0
+
+-k 0 dir-1 0 out 0
