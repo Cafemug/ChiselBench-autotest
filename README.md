@@ -13,6 +13,6 @@ Option | AddOption | File or Dir | NewFile or NewDir | diff type | Ambiguity |
 :------: | :---------: | :------------:|:-----------:|:-----------:|:-----------:|
 (cut) -c |int-2| file-1 |0| out | 0 |
 (wc) -l  | 0 | file-1 |0| out | 0|
-(tr) -d  | string-2 |0|out|0|
+(tr) -d  | string-2 |0|0||out|0|
 (mkdir) -m | auth-1 |0|dir-1|lsread|0|
 (du) -l | 0 | dir-1 |0| out | 0|
