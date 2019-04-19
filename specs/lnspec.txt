@@ -1,0 +1,5 @@
+-s 0 file-1 newfile-1 lsread 0
+-n 0 file-1 newfile-1 lsread 0
+-v 0 file-1 newfile-1 lsread 0
+-f 0 file-2 0 lsread 0
+-b 0 file-2 0 lsread 0
