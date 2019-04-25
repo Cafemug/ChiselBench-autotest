@@ -1,0 +1,7 @@
+-b int-1 file-1 0 out 0
+-b int-2 file-1 0 out 0
+-c int-1 file-1 0 out 0
+-c int-2 file-1 0 out 0
+-f int-1 file-1 0 out 0
+-f int-2 file-1 0 out 0
+

@@ -1,0 +1,2 @@
+-i 0 file-1 out 0
+-t int-1 file-1 out 0
