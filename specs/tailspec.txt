@@ -1,9 +1,5 @@
 -c int-1 file-1 0 out 0
-
 -n int-1 file-1 0 out 0
-
 -5 0  file-1 0 out 0
--
-q 0 file-1 0 out 0
-
+-q 0 file-1 0 out 0
 -v 0 file-1 0 out 0
